@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-flyland_vr-0.1";
 const contentToCache = [
     "Build/building.loader.js",
-    "Build/building.framework.js.gz",
-    "Build/building.data.gz",
-    "Build/building.wasm.gz",
+    "Build/building.framework.js",
+    "Build/building.data",
+    "Build/building.wasm",
     "TemplateData/style.css"
 
 ];
